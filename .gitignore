@@ -16,3 +16,4 @@ Lib
 .vscode
 *.ofx
 *.egg-info
+*.idea
