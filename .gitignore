@@ -15,3 +15,4 @@ pyvenv.cfg
 Lib
 .vscode
 *.ofx
+*.egg-info
